@@ -1,0 +1,29 @@
+C:\Users\jerem\AppData\Local\Temporary Projects\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe.config
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe.config
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Programmer.resources
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Properties.Resources.resources
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Standard.resources
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.csproj.GenerateResource.Cache
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.exe
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.pdb
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.pdb
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe.config
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.exe
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.pdb
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.pdb
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.csprojResolveAssemblyReference.cache
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Programmer.resources
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Properties.Resources.resources
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Standard.resources
+C:\Users\jerem\Desktop\School\Champlain\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.csproj.GenerateResource.Cache
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.csprojAssemblyReference.cache
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.BusRoutes.resources
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV_260.Properties.Resources.resources
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.csproj.GenerateResource.cache
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.exe
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\obj\Debug\Reimert_HW3_SDEV-260.pdb
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe.config
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.exe
+C:\Users\jerem\OneDrive\Desktop\School\Fall 2019\SDEV-260_C#\Week 3\Reimert_HW3_SDEV-260\Reimert_HW3_SDEV-260\bin\Debug\Reimert_HW3_SDEV-260.pdb
